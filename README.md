@@ -20,6 +20,17 @@ I will be doing EDA on this dataset using Python to answer this question.
 
 
 ## Introduction
+EDA is one of the critical process that we need to perform in our initial investigation to get good understanding 
+about the dataset. In the process, we discover patterns, spot anomalies, test hypothesis and test assumption with the 
+help of summary statistics and graphical representations. \
+In this project I performed below analysis:\
+* Histogram 
+* Scatter Plot, Bar Chart
+* Statistical Summary
+* Probability mass function (PMF)
+* Cumulative distribution function (CDF)
+* Probability Density Function (PDF) 
+* Normal Distribution
 
 [back to top](#table-of-contents)
 ## Data Background
