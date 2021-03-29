@@ -17,7 +17,7 @@ I will be doing EDA on this dataset using Python to answer this question.
 5. [Versioning](#versioning)
 6. [Authors](#authors)
 7. [Acknowledgement](#acknowledgement)
-
+8. [Reference](#reference)
 
 ## Introduction
 EDA is one of the critical process that we need to perform in our initial investigation to get good understanding 
@@ -84,4 +84,8 @@ Shani Kumar \
 I got to learn a lot of things about exploratory data analysis. In this term I got to learn how we can use statistical
 methods for EDA. Exploratory Data Analysis (EDA) is an approach to analyzing datasets to summarize their main 
 characteristics, often with visual methods. \
+[back to top](#table-of-contents)
+
+## Reference
+
 [back to top](#table-of-contents)
