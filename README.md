@@ -65,6 +65,7 @@ You will need the following applications to execute this project-
 
 * Python 3 (or Anaconda distribution with Python 3)
 * Jupyter or any other notebook 
+* thinkstats2 and thinkplot library
 
 [back to top](#table-of-contents)
 
